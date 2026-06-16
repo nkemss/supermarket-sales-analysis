@@ -11,7 +11,6 @@ This project explores supermarket sales data to identify trends in customer purc
 ## Tools and Technologies
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Jupyter Notebook
 
